@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2154
     wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17009#Studies-in-Occultism--A-Series-of-Reprints-from-the-Writings-of-H.-P.-BlavatskyArts-The-Bless_
 gutenberg_bookshelf: Racism
 gutenberg_issued: '2005-11-05'
 gutenberg_type: Text
