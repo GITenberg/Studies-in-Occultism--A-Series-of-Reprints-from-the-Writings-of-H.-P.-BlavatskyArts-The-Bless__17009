@@ -1,0 +1,38 @@
+_repo: Studies-in-Occultism--A-Series-of-Reprints-from-the-Writings-of-H.-P.-BlavatskyArts-The-Bless__17009
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Blavatsky, H. P. (Helena Petrovna)
+    aliases:
+    - Blavatsky, Helena Petrovna
+    - Блаватская, Е. П. (Елена Петровна)
+    - Blavatski, Yelena Petrovna
+    - Blavatski, H. P.
+    birthdate: 1831
+    deathdate: 1891
+    gutenberg_agent_id: '2154'
+    url: http://www.gutenberg.org/2009/agents/2154
+    wikipedia: http://en.wikipedia.org/wiki/Helena_Petrovna_Blavatsky
+description: ''
+gutenberg_bookshelf: Racism
+gutenberg_issued: '2005-11-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17009'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Theosophy'
+- !lcc 'BF'
+- !lcsh 'Occultism'
+title: 'Studies in Occultism; A Series of Reprints from the Writings of H. P. Blavatsky
+
+  No. 1: Practical Occultism—Occultism versus the Occult
+
+  Arts—The Blessings of Publicity'
+url: http://www.gutenberg.org/ebooks/17009
